@@ -1,0 +1,388 @@
+{
+  "common": {
+    "appName": "AýKitap",
+    "seeAll": "Tümünü gör",
+    "more": "Daha fazla",
+    "free": "Ücretsiz",
+    "manat": "manat",
+    "book": "kitap",
+    "booksCount": "{count} kitap",
+    "search": "Kitap, yazar ara...",
+    "back": "Geri",
+    "loading": "Yükleniyor...",
+    "goHome": "Ana sayfa",
+    "searchNoResults": "Sonuç bulunamadı",
+    "subscription": "Abonelik"
+  },
+  "nav": {
+    "home": "Ana sayfa",
+    "catalog": "Kitaplar",
+    "collections": "Koleksiyonlar",
+    "authors": "Yazarlar",
+    "wishlist": "Favorilerim",
+    "profile": "Profil",
+    "login": "Giriş"
+  },
+  "home": {
+    "welcome": "Hoş geldin",
+    "trialBooks": "Deneme kitapları",
+    "trialBooksDesc": "Ücretsiz okumayı deneyin",
+    "popular": "Popüler Kitaplar",
+    "popularDesc": "Okuyucuların en sevdiği eserler",
+    "editorsPick": "Editörün seçimi",
+    "editorsPickDesc": "Beğendiğimiz en iyi eserler",
+    "newArrivals": "Yeni Gelenler",
+    "newArrivalsDesc": "Kütüphaneye yeni eklenen eserler",
+    "weeklyTop": "Haftanın En Çok Okunanları",
+    "weeklyTopDesc": "Bu hafta okuyucuların seçtiği kitaplar",
+    "bestsellers": "Çok Satanlar",
+    "bestsellersDesc": "En çok satılan ve beğenilen eserler",
+    "collections": "Koleksiyonlar",
+    "series": "Seriler",
+    "seriesPrefix": "Seri",
+    "authors": "Yazarlar",
+    "appPromoTitle": "Uygulamada daha rahat",
+    "appPromoDesc": "Kitaplarınızı yanınızda taşıyın — çevrimdışı okuyun, yer imi ekleyin ve okumanıza her cihazda devam edin.",
+    "appPromoDownload": "İndir",
+    "appPromoQrHint": "QR kodu tarayın",
+    "appPromoFreeNote": "Android ve iOS için ücretsiz"
+  },
+  "catalog": {
+    "title": "Kitaplar",
+    "found": "{count} kitap bulundu",
+    "filters": "Filtreler",
+    "quickFilters": "Hızlı filtreler",
+    "language": "Dil",
+    "format": "Format",
+    "year": "Yayın yılı",
+    "sort": "Sıralama",
+    "sortAz": "Ada göre (A→Z)",
+    "sortYearNew": "Yayın yılı (yeniden eskiye)",
+    "sortYearOld": "Yayın yılı (eskiden yeniye)",
+    "sortPopular": "Popülerliğe göre",
+    "any": "Hepsi",
+    "langTurkmen": "Türkmence",
+    "langTurkish": "Türkçe",
+    "langRussian": "Rusça",
+    "langEnglish": "İngilizce",
+    "langOther": "Diğer",
+    "chipFree": "Ücretsiz",
+    "chipNew": "Yeni",
+    "chipBestseller": "Çok satan",
+    "chipRomance": "Romantik",
+    "clear": "Filtreyi temizle",
+    "showResults": "Sonuçları göster",
+    "empty": "Hiçbir şey bulunamadı",
+    "emptyDesc": "Filtreleri değiştirin veya başka bir kelimeyle arayın",
+    "genres": "Türler",
+    "chipRecomended": "Editörün seçimi",
+    "chipTop": "Haftanın seçimi",
+    "page": "sayfa",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "moreCount": "Daha {count}",
+    "showLess": "Daralt"
+  },
+  "book": {
+    "about": "Kitap hakkında",
+    "readMore": "Devamını oku",
+    "showLess": "Daralt",
+    "genres": "Türler",
+    "similar": "Benzer kitaplar",
+    "byAuthor": "Bu yazarın diğer kitapları",
+    "statRead": "okundu",
+    "statBought": "satın alındı",
+    "statPages": "sayfa",
+    "price": "Fiyat",
+    "buy": "Satın al",
+    "addedToWishlist": "Favorilere eklendi",
+    "removedFromWishlist": "Favorilerden çıkarıldı",
+    "linkCopied": "Bağlantı kopyalandı",
+    "year": "Yayın yılı",
+    "age": "Yaş sınırı",
+    "notFound": "Kitap bulunamadı"
+  },
+  "purchase": {
+    "confirmTitle": "Satın almayı onaylayın",
+    "confirm": "Bakiyeden öde",
+    "yourBalance": "Bakiyeniz",
+    "afterBalance": "Ödemeden sonra",
+    "success": "Kitap satın alındı! Artık indirebilirsiniz",
+    "claimed": "Kitap kitaplarınıza eklendi",
+    "getFree": "Ücretsiz al",
+    "notEnough": "Bakiyeniz yetersiz",
+    "notEnoughLong": "Bakiyeniz yetersiz — {amount} manat daha gerekli",
+    "topUp": "Bakiye yükle",
+    "subscriptionOnly": "Sadece abonelikle",
+    "subscriptionNote": "Bu kitap yalnızca abonelikle, mobil uygulamada okunabilir.",
+    "openInApp": "Abonelik al"
+  },
+  "auth": {
+    "loginTitle": "Giriş / Kayıt ol",
+    "loginSubtitle": "Telefon numaranızı girin, size SMS ile doğrulama kodu gönderelim.",
+    "signupTitle": "Kayıt ol",
+    "signupSubtitle": "Kullanıcı adınızı ve telefon numaranızı girin.",
+    "usernameLabel": "Kullanıcı adı",
+    "usernamePlaceholder": "Adınızı girin",
+    "phoneLabel": "Telefon numarası",
+    "sendCode": "SMS kodu gönder",
+    "terms": "Devam ederek <link>Kullanım Koşullarını</link> kabul etmiş olursunuz.",
+    "otpTitle": "Kodu girin",
+    "otpSubtitle": "Bu numaraya SMS gönderdik:",
+    "verify": "Onayla",
+    "resend": "Yeni kod gönder",
+    "resendIn": "Yeni kod: {time}",
+    "haveAccount": "Hesabınız var mı?",
+    "noAccount": "Hesabınız yok mu?",
+    "loginLink": "Giriş",
+    "signupLink": "Kayıt ol",
+    "logout": "Çıkış",
+    "wrongCode": "Kod yanlış, tekrar deneyin",
+    "tooManyAttempts": "Çok fazla deneme — 3 dakika sonra tekrar deneyin",
+    "smsFailed": "SMS gönderilemedi, az sonra tekrar deneyin",
+    "loginRequired": "Bunun için giriş yapmalısınız",
+    "welcome": "Hoş geldiniz!",
+    "networkError": "İnternet bağlantınızı kontrol edin"
+  },
+  "wishlist": {
+    "title": "Favorilerim",
+    "empty": "Favorileriniz boş",
+    "emptyDesc": "Beğendiğiniz kitapları kalp ile işaretleyin — burada saklanır"
+  },
+  "profile": {
+    "title": "Profil",
+    "language": "Arayüz dili",
+    "logout": "Çıkış",
+    "usernameSave": "Kaydet",
+    "usernameUpdated": "Kullanıcı adı güncellendi",
+    "changePhoto": "Fotoğrafı değiştir",
+    "photoUpdated": "Fotoğraf güncellendi",
+    "photoInvalid": "Lütfen bir resim dosyası seçin",
+    "photoTooLarge": "Resim 5MB'den büyük olamaz"
+  },
+  "footer": {
+    "tagline": "Türkmen ve dünya edebiyatının e-kitap kütüphanesi. İstediğiniz yerde okuyun.",
+    "sections": "Bölümler",
+    "account": "Hesap",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "info": "Bilgi",
+    "about": "Hakkımızda",
+    "terms": "Kullanım koşulları",
+    "privacy": "Gizlilik politikası"
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "desc": "Aradığınız sayfa mevcut değil veya taşınmış olabilir."
+  },
+  "error": {
+    "title": "Sayfa yüklenemedi",
+    "desc": "Bağlantıda bir sorun oluştu. Lütfen tekrar deneyin.",
+    "retry": "Tekrar dene"
+  },
+  "aboutPage": {
+    "title": "Hakkımızda",
+    "heroTitle": "Kitap sevenler için tasarlanmış platform",
+    "heroText": "AýKitap, Türkmen ve dünya edebiyatını bir araya getiren bir e-kitap kütüphanesidir. Amacımız okumayı herkes için erişilebilir, rahat ve keyifli kılmak.",
+    "statBooks": "kitap",
+    "statAuthors": "yazar",
+    "statLangs": "dil",
+    "statReaders": "okuyucu",
+    "featuresTitle": "Neden AýKitap?",
+    "features": [
+      {
+        "title": "Zengin kütüphane",
+        "body": "Roman, şiir, polisiye, çocuk edebiyatı — tüm türler tek bir yerde."
+      },
+      {
+        "title": "Her yerde okuyun",
+        "body": "Telefonda, tablette veya bilgisayarda — kütüphaneniz her zaman yanınızda."
+      },
+      {
+        "title": "3 dilde arayüz",
+        "body": "Türkmence, Türkçe ve Rusça olarak tamamen çevrilmiş kullanışlı arayüz."
+      },
+      {
+        "title": "Güvenli satın alma",
+        "body": "Satın aldığınız kitaplar hesabınıza bağlanır ve her zaman erişilebilir kalır."
+      }
+    ],
+    "ctaTitle": "Bugün okumaya başlayın",
+    "ctaText": "Binlerce eser sizi bekliyor — ilk kitabınızı seçin.",
+    "ctaButton": "Kitaplara git"
+  },
+  "termsPage": {
+    "title": "Kullanım Koşulları",
+    "updated": "Son güncelleme: 1 Temmuz 2026",
+    "intro": "Bu koşullar AýKitap platformasının kullanım kurallarını belirler. Siteyi veya mobil uygulamayı kullanarak bu koşulları kabul etmiş olursunuz.",
+    "sections": [
+      {
+        "title": "Genel hükümler",
+        "body": "AýKitap, e-kitap satın almak ve okumak için tasarlanmış bir platformdur. Hizmeti kullanarak bu koşulları tamamen kabul etmiş sayılırsınız. Koşulları kabul etmiyorsanız lütfen platformayı kullanmayı bırakın."
+      },
+      {
+        "title": "Hesap ve güvenlik",
+        "body": "Hesap, telefon numaranızla açılır ve SMS koduyla doğrulanır. Hesabınızın güvenliği ve hesabınız üzerinden yapılan işlemler sizin sorumluluğunuzdadır. Hesabınızı üçüncü kişilerle paylaşmayın."
+      },
+      {
+        "title": "Satın alma ve ödemeler",
+        "body": "Kitap fiyatları manat cinsinden gösterilir. Satın alınan e-kitap hesabınıza bağlanır ve platform üzerinden erişilebilir olur. Ödemeyle ilgili bir sorun yaşarsanız destek ekibimize başvurun."
+      },
+      {
+        "title": "Telif hakları",
+        "body": "Platformdaki tüm eserler telif hakkıyla korunmaktadır. Satın alınan kitaplar yalnızca kişisel okuma içindir. Kitapları kopyalayıp dağıtmak, satmak veya üçüncü kişilere vermek yasaktır."
+      },
+      {
+        "title": "Kullanıcının yükümlülükleri",
+        "body": "Platformu yasa dışı amaçlarla kullanmak, korumaları aşmaya çalışmak, otomatik komut dosyalarıyla veri toplamak yasaktır. Kural ihlali durumunda hesap kısıtlanabilir veya kapatılabilir."
+      },
+      {
+        "title": "Sorumluluğun sınırlandırılması",
+        "body": "Hizmet «olduğu gibi» sunulmaktadır. Teknik arızalardan kaynaklanan kesintilerden platform doğrudan sorumlu değildir; ancak bunları en kısa sürede gidermeye çalışırız."
+      },
+      {
+        "title": "Koşullarda değişiklik",
+        "body": "Bu koşullar zaman zaman güncellenebilir. Önemli değişiklikler platform üzerinden duyurulur. Değişikliklerden sonra hizmeti kullanmaya devam etmek yeni koşulları kabul etmek anlamına gelir."
+      },
+      {
+        "title": "İletişim",
+        "body": "Koşullarla ilgili sorularınız varsa destek ekibimize başvurabilirsiniz. Başvurular iş günlerinde kabul edilir ve kısa sürede yanıtlanır."
+      }
+    ]
+  },
+  "privacyPage": {
+    "title": "Gizlilik Politikası",
+    "updated": "Son güncelleme: 1 Temmuz 2026",
+    "intro": "Bu politika, AýKitap platformasının kişisel verilerinizi nasıl topladığını, kullandığını ve koruduğunu açıklar.",
+    "sections": [
+      {
+        "title": "Toplanan veriler",
+        "body": "Kayıt sırasında telefon numaranızı ve kullanıcı adınızı toplarız. Ayrıca hizmeti geliştirmek için okuma istatistikleri gibi teknik veriler de toplanabilir."
+      },
+      {
+        "title": "Verilerin kullanımı",
+        "body": "Verileriniz hesabınızı doğrulamak, siparişlerinizi gerçekleştirmek, destek sağlamak ve hizmet kalitesini artırmak için kullanılır. Reklam amacıyla üçüncü taraflara verilmez."
+      },
+      {
+        "title": "Saklama ve güvenlik",
+        "body": "Verileriniz güvenli sunucularda saklanır ve yetkisiz erişime karşı uygun teknik önlemler alınır."
+      },
+      {
+        "title": "Üçüncü taraflar",
+        "body": "Kişisel verileriniz satılmaz ve takas edilmez. Yalnızca yasaların öngördüğü durumlarda ilgili kurumlara verilebilir."
+      },
+      {
+        "title": "Cihazınızda saklanan veriler",
+        "body": "Sepet, favori kitaplar ve dil seçimi gibi veriler kolaylık için kendi cihazınızda (tarayıcı belleğinde) saklanır. Bunları tarayıcı ayarlarından istediğiniz zaman temizleyebilirsiniz."
+      },
+      {
+        "title": "Haklarınız",
+        "body": "Verilerinizi görme, düzeltme veya silinmesini talep etme hakkına sahipsiniz. Bunun için destek ekibimize başvurun."
+      },
+      {
+        "title": "Değişiklikler ve iletişim",
+        "body": "Politika güncellendiğinde bu sayfada yayınlanır. Sorularınız için destek ekibimize yazabilirsiniz."
+      }
+    ]
+  },
+  "authorsPage": {
+    "title": "Yazarlar",
+    "subtitle": "Türkmen edebiyatının ustalarıyla tanışın — her yazarın eserlerini keşfedin",
+    "allBooks": "Eserlerini gör",
+    "searchPlaceholder": "Yazar ara..."
+  },
+  "account": {
+    "profile": "Profil",
+    "myBooks": "Kitaplarım",
+    "wishlist": "Favorilerim",
+    "balance": "Bakiye",
+    "requests": "Kitap taleplerim",
+    "support": "Yardım",
+    "language": "Arayüz dili",
+    "languageDesc": "Sitenin dilini istediğiniz zaman değiştirebilirsiniz"
+  },
+  "library": {
+    "download": "İndir",
+    "owned": "Bu kitap sizin",
+    "empty": "Henüz satın alınan kitap yok",
+    "emptyDesc": "Satın aldığınız kitaplar burada görünür ve istediğiniz zaman indirebilirsiniz",
+    "browse": "Kitaplara göz at",
+    "chooseFormat": "Format seçin",
+    "chooseFormatDesc": "Bu kitap birden fazla formatta mevcut",
+    "noFile": "Bu kitabın dosyası henüz yüklenmemiş",
+    "notOwned": "Önce bu kitabı satın almalısınız"
+  },
+  "balance": {
+    "topUp": "Bakiye yükle",
+    "cardHint": "Bakiyenizle kitap satın alabilirsiniz. Banka kartı veya promosyon koduyla yükleyin.",
+    "promoTitle": "Promosyon kodu ile",
+    "promoDesc": "Elinizdeki kodu girin — tutar hemen bakiyenize eklenir",
+    "promoPlaceholder": "Promosyon kodunu girin",
+    "promoApply": "Kullan",
+    "promoSuccess": "Kod kullanıldı, bakiyeniz yüklendi",
+    "promoNotFound": "Böyle bir kod bulunamadı",
+    "promoUsed": "Bu kod daha önce kullanılmış",
+    "cardTitle": "Banka kartı ile",
+    "cardDesc": "Tutarı yazıp bankayı seçin — bankanın güvenli ödeme sayfasına yönlendirileceksiniz",
+    "soon": "Yakında",
+    "history": "Bakiye geçmişi",
+    "historyEmpty": "İşlem yok",
+    "historyEmptyDesc": "Yüklemeleriniz ve satın alımlarınız burada görünür",
+    "events": {
+      "DEPOSIT_BY_CARD": "Banka kartı ile yüklendi",
+      "DEPOSIT_BY_TMCELL": "Telefon hesabı ile yüklendi",
+      "DEPOSIT_BY_PROMO": "Promosyon kodu ile yüklendi",
+      "BUY_BOOK": "Kitap satın alındı",
+      "BUY_SUBSCRIPTION": "Abonelik satın alındı",
+      "REWARD_BY_STREAK": "Seri ödülü"
+    },
+    "amountPlaceholder": "Tutar (manat)",
+    "payNow": "Yükle",
+    "paymentSuccess": "Bakiyeniz başarıyla yüklendi!",
+    "paymentFailed": "Ödeme gerçekleşmedi. Tekrar deneyin."
+  },
+  "requests": {
+    "introTitle": "Aradığınız kitap yok mu?",
+    "introDesc": "Talep gönderin — kitabı eklemeye çalışacağız",
+    "new": "Yeni talep",
+    "newTitle": "Kitap talebi",
+    "newDesc": "Uygulamada olmayan bir kitabı talep edin",
+    "bookName": "Kitap adı",
+    "bookNamePlaceholder": "Örnek: Kayıp ve buluş",
+    "authorName": "Yazar adı",
+    "authorPlaceholder": "Örnek: Osman Ödäýew",
+    "description": "Açıklama (zorunlu değil)",
+    "descriptionPlaceholder": "Kitap hakkında ek bilgi",
+    "language": "Dili",
+    "submit": "Gönder",
+    "created": "Talebiniz gönderildi",
+    "deleted": "Talep silindi",
+    "delete": "Sil",
+    "dailyLimit": "Günde en fazla 5 talep gönderebilirsiniz",
+    "empty": "Henüz talep yok",
+    "emptyDesc": "Aradığınız kitabı talep edin — listeniz burada görünür",
+    "statuses": {
+      "new": "Yeni",
+      "accepted": "Kabul edildi",
+      "processing": "İşleniyor",
+      "completed": "Hazır",
+      "rejected": "Reddedildi"
+    },
+    "languages": {
+      "tk": "Türkmence",
+      "tr": "Türkçe",
+      "ru": "Rusça",
+      "en": "İngilizce",
+      "other": "Diğer"
+    }
+  },
+  "support": {
+    "title": "Sorun bildir",
+    "desc": "Karşılaştığınız sorunu anlatın, inceleyelim",
+    "placeholder": "Ne oldu? Mümkün olduğunca ayrıntılı yazın...",
+    "send": "Gönder",
+    "sent": "Mesajınız gönderildi, teşekkürler!",
+    "contactTitle": "Doğrudan iletişim",
+    "contactDesc": "Acil durumlarda bu adreslerden bize ulaşabilirsiniz"
+  }
+}

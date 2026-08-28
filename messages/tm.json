@@ -1,0 +1,388 @@
+{
+  "common": {
+    "appName": "AýKitap",
+    "seeAll": "Ählisini gör",
+    "more": "Has köp",
+    "free": "Mugt",
+    "manat": "manat",
+    "book": "kitap",
+    "booksCount": "{count} kitap",
+    "search": "Kitap, ýazar gözle...",
+    "back": "Yza",
+    "loading": "Ýüklenýär...",
+    "goHome": "Baş sahypa",
+    "searchNoResults": "Hiç zat tapylmady",
+    "subscription": "Abuna"
+  },
+  "nav": {
+    "home": "Baş sahypa",
+    "catalog": "Kitaplar",
+    "collections": "Kolleksiýalar",
+    "authors": "Ýazarlar",
+    "wishlist": "Halanlarym",
+    "profile": "Profil",
+    "login": "Giriş"
+  },
+  "home": {
+    "welcome": "Hoşgeldin",
+    "trialBooks": "Synag kitaplary",
+    "trialBooksDesc": "Mugt okap görüň",
+    "popular": "Populer Kitaplar",
+    "popularDesc": "Okyjylaryň iň söýýän eserleri",
+    "editorsPick": "Redaktoryň saýlawy",
+    "editorsPickDesc": "Bize ýaraýan iň gowy eserler",
+    "newArrivals": "Täze Gelenler",
+    "newArrivalsDesc": "Kitaphana täze goşulan eserler",
+    "weeklyTop": "Hepdelik Iň Köp Okunanlar",
+    "weeklyTopDesc": "Bu hepde okyjylaryň saýlan kitaplary",
+    "bestsellers": "Bestsellerler",
+    "bestsellersDesc": "Iň köp satylan we halanan eserler",
+    "collections": "Kolleksiýalar",
+    "series": "Seriýalar",
+    "seriesPrefix": "Seriýa",
+    "authors": "Ýazarlar",
+    "appPromoTitle": "Goşundyda has amatly",
+    "appPromoDesc": "Kitaplaryňyzy ýanyňyz bilen alyň — oflaýn okaň, bellik goýuň we okaýşyňyzy islendik enjamda dowam etdiriň.",
+    "appPromoDownload": "Ýükläp al",
+    "appPromoQrHint": "QR kody skanirläň",
+    "appPromoFreeNote": "Android we iOS üçin mugt"
+  },
+  "catalog": {
+    "title": "Kitaplar",
+    "found": "{count} kitap tapyldy",
+    "filters": "Filtrler",
+    "quickFilters": "Çalt filtrler",
+    "language": "Dil",
+    "format": "Format",
+    "year": "Çap senesi",
+    "sort": "Tertiplemek",
+    "sortAz": "Ady boýunça (A→Z)",
+    "sortYearNew": "Çap senesi (täzeden köne)",
+    "sortYearOld": "Çap senesi (köneden täze)",
+    "sortPopular": "Meşhurlygy boýunça",
+    "any": "Islendik",
+    "langTurkmen": "Türkmen dili",
+    "langTurkish": "Türk dili",
+    "langRussian": "Rus dili",
+    "langEnglish": "Iňlis dili",
+    "langOther": "Beýleki",
+    "chipFree": "Mugt",
+    "chipNew": "Täze",
+    "chipBestseller": "Bestseller",
+    "chipRomance": "Romantika",
+    "clear": "Filtri arassala",
+    "showResults": "Netijeleri görkez",
+    "empty": "Hiç zat tapylmady",
+    "emptyDesc": "Filtrleri üýtgedip ýa-da başga söz bilen gözläp görüň",
+    "genres": "Žanrlar",
+    "chipRecomended": "Redaktoryň saýlawy",
+    "chipTop": "Hepdäniň saýlananlary",
+    "page": "sahypa",
+    "prev": "Öňki",
+    "next": "Indiki",
+    "moreCount": "Ýene {count}",
+    "showLess": "Ýygnamak"
+  },
+  "book": {
+    "about": "Kitap barada",
+    "readMore": "Doly oka",
+    "showLess": "Ýygnamak",
+    "genres": "Žanrlar",
+    "similar": "Meňzeş kitaplar",
+    "byAuthor": "Şu ýazaryň beýleki kitaplary",
+    "statRead": "okaldy",
+    "statBought": "satyn alyndy",
+    "statPages": "sahypa",
+    "price": "Baha",
+    "buy": "Satyn al",
+    "addedToWishlist": "Halanlaryma goşuldy",
+    "removedFromWishlist": "Halanlarymdan aýryldy",
+    "linkCopied": "Salgy kopiýalandy",
+    "year": "Çap senesi",
+    "age": "Ýaş çägi",
+    "notFound": "Kitap tapylmady"
+  },
+  "purchase": {
+    "confirmTitle": "Satyn almagy tassyklaň",
+    "confirm": "Balansdan töle",
+    "yourBalance": "Balansyňyz",
+    "afterBalance": "Tölegden soň",
+    "success": "Kitap satyn alyndy! Indi göçürip alyp bilersiňiz",
+    "claimed": "Kitap kitaplaryňyza goşuldy",
+    "getFree": "Mugt al",
+    "notEnough": "Balansyňyz ýeterlik däl",
+    "notEnoughLong": "Balansyňyz ýeterlik däl — ýene {amount} manat gerek",
+    "topUp": "Balansy doldur",
+    "subscriptionOnly": "Diňe abuna bilen",
+    "subscriptionNote": "Bu kitaby diňe abuna arkaly, mobil programmada okap bolýar.",
+    "openInApp": "Abuna aç"
+  },
+  "auth": {
+    "loginTitle": "Giriş / Hasaba durmak",
+    "loginSubtitle": "Telefon belgiňizi giriziň, size SMS arkaly tassyklama kody ibereris.",
+    "signupTitle": "Hasaba durmak",
+    "signupSubtitle": "Ulanyjy adyňyzy we telefon belgiňizi giriziň.",
+    "usernameLabel": "Ulanyjy ady",
+    "usernamePlaceholder": "Adyňyzy giriziň",
+    "phoneLabel": "Telefon belgisi",
+    "sendCode": "SMS kod ibermek",
+    "terms": "Dowam etmek bilen <link>Ulanyş Şertlerine</link> razylaşýarsyňyz.",
+    "otpTitle": "Kody giriziň",
+    "otpSubtitle": "Şu belgä SMS iberdik:",
+    "verify": "Tassykla",
+    "resend": "Täze kod ibermek",
+    "resendIn": "Täze kod: {time}",
+    "haveAccount": "Hasabyňyz barmy?",
+    "noAccount": "Hasabyňyz ýokmy?",
+    "loginLink": "Giriş",
+    "signupLink": "Hasaba durmak",
+    "logout": "Çykyş",
+    "wrongCode": "Kod nädogry, täzeden synanyşyň",
+    "tooManyAttempts": "Köp synanyşyk boldy — 3 minutdan soň täzeden synanyşyň",
+    "smsFailed": "SMS iberilip bilinmedi, birazdan täzeden synanyşyň",
+    "loginRequired": "Munuň üçin hasaba girmeli",
+    "welcome": "Hoş geldiňiz!",
+    "networkError": "Internet baglanyşygyny barlaň"
+  },
+  "wishlist": {
+    "title": "Halanlarym",
+    "empty": "Halanlaryňyz boş",
+    "emptyDesc": "Ýüregiňize ýaran kitaplary ýürejik bilen belläň — olar şu ýerde saklanar"
+  },
+  "profile": {
+    "title": "Profil",
+    "language": "Interfeýs dili",
+    "logout": "Çykyş",
+    "usernameSave": "Ýatda sakla",
+    "usernameUpdated": "Ulanyjy ady täzelendi",
+    "changePhoto": "Suraty üýtgetmek",
+    "photoUpdated": "Surat täzelendi",
+    "photoInvalid": "Diňe surat faýlyny saýlaň",
+    "photoTooLarge": "Surat 5MB-dan uly bolmaly däl"
+  },
+  "footer": {
+    "tagline": "Türkmen we dünýä edebiýatynyň elektron kitaphanasy. Islän ýeriňizde okaň.",
+    "sections": "Bölümler",
+    "account": "Hasap",
+    "contact": "Habarlaşmak",
+    "rights": "Ähli hukuklar goralan.",
+    "info": "Maglumat",
+    "about": "Biz barada",
+    "terms": "Ulanyş şertleri",
+    "privacy": "Gizlinlik syýasaty"
+  },
+  "notFound": {
+    "title": "Sahypa tapylmady",
+    "desc": "Gözleýän sahypaňyz ýok ýa-da göçürilen bolmagy mümkin."
+  },
+  "error": {
+    "title": "Sahypa ýüklenmedi",
+    "desc": "Baglanyşykda näsazlyk boldy öýdýän. Täzeden synanyşyp görüň.",
+    "retry": "Täzeden synanyş"
+  },
+  "aboutPage": {
+    "title": "Biz barada",
+    "heroTitle": "Kitap söýýänler üçin döredilen platforma",
+    "heroText": "AýKitap — türkmen we dünýä edebiýatyny bir ýere jemleýän elektron kitaphana. Maksadymyz — okamagy her kim üçin elýeterli, amatly we lezzetli etmek.",
+    "statBooks": "kitap",
+    "statAuthors": "ýazyjy",
+    "statLangs": "dil",
+    "statReaders": "okyjy",
+    "featuresTitle": "Näme üçin AýKitap?",
+    "features": [
+      {
+        "title": "Baý kitaphana",
+        "body": "Roman, poeziýa, detektiw, çagalar edebiýaty — ähli žanrlar bir ýerde jemlenen."
+      },
+      {
+        "title": "Islendik ýerde okaň",
+        "body": "Telefonda, planşetde ýa-da kompýuterde — kitaphanaňyz elmydama ýanyňyzda."
+      },
+      {
+        "title": "3 dilde interfeýs",
+        "body": "Türkmen, türk we rus dillerinde doly terjime edilen amatly interfeýs."
+      },
+      {
+        "title": "Howpsuz satyn alyş",
+        "body": "Satyn alan kitaplaryňyz hasabyňyza baglanýar we hemişelik elýeterli bolýar."
+      }
+    ],
+    "ctaTitle": "Şu gün okap başlaň",
+    "ctaText": "Müňlerçe eser sizi garaşýar — ilkinji kitabyňyzy saýlaň.",
+    "ctaButton": "Kitaplara geç"
+  },
+  "termsPage": {
+    "title": "Ulanyş Şertleri",
+    "updated": "Soňky täzelenme: 2026-njy ýylyň 1-nji iýuly",
+    "intro": "Şu şertler AýKitap platformasyny ulanmagyň düzgünlerini kesgitleýär. Saýtdan ýa-da mobil goşundydan peýdalanmak bilen siz şu şertlere razylaşýarsyňyz.",
+    "sections": [
+      {
+        "title": "Umumy düzgünler",
+        "body": "AýKitap elektron kitaplary satyn almak we okamak üçin niýetlenen platformadyr. Hyzmatdan peýdalanmak bilen siz şu şertleri dolulygyna kabul edýärsiňiz. Şertler bilen razy bolmasaňyz, platformany ulanmagy bes etmegiňizi haýyş edýäris."
+      },
+      {
+        "title": "Hasap we howpsuzlyk",
+        "body": "Hasap telefon belgiňiz arkaly açylýar we SMS kod bilen tassyklanýar. Hasabyňyzyň howpsuzlygy we onuň üsti bilen edilen hereketler siziň jogapkärçiligiňizde. Hasabyňyzy üçünji şahslara bermäň."
+      },
+      {
+        "title": "Satyn almak we tölegler",
+        "body": "Kitaplaryň bahalary manatda görkezilýär. Satyn alnan elektron kitap hasabyňyza baglanýar we platformanyň üsti bilen elýeterli bolýar. Töleg bilen bagly nädogrylyk ýüze çyksa, goldaw hyzmatymyza ýüz tutuň."
+      },
+      {
+        "title": "Awtorlyk hukuklary",
+        "body": "Platformadaky ähli eserler awtorlyk hukugy bilen goralýar. Satyn alnan kitaplar diňe şahsy okaýyş üçin niýetlenendir. Kitaplary göçürip ýaýratmak, satmak ýa-da üçünji şahslara bermek gadagandyr."
+      },
+      {
+        "title": "Ulanyjynyň borçlary",
+        "body": "Platformany bikanun maksatlar üçin ulanmak, goragy aýlanyp geçmäge synanyşmak, awtomatlaşdyrylan skriptler arkaly maglumat ýygnamak gadagandyr. Düzgün bozulan halatynda hasap çäklendirilip ýa-da ýapylyp bilner."
+      },
+      {
+        "title": "Jogapkärçiligiň çäklendirilmesi",
+        "body": "Hyzmat «bar bolşy ýaly» görnüşinde hödürlenýär. Tehniki näsazlyklar sebäpli ýüze çykan arakesmeler üçin platforma göni jogapkärçilik çekmeýär, emma olary gysga wagtda düzetmäge çalyşýarys."
+      },
+      {
+        "title": "Şertleriň üýtgemegi",
+        "body": "Şu şertler wagtal-wagtal täzelenip bilner. Möhüm üýtgeşmeler barada platformanyň üsti bilen habar berler. Üýtgeşmelerden soň hyzmaty ulanmagy dowam etdirmek täze şertleri kabul etmek diýmekdir."
+      },
+      {
+        "title": "Habarlaşmak",
+        "body": "Şertler boýunça soraglaryňyz bar bolsa, goldaw hyzmatymyza ýüz tutup bilersiňiz. Ýüztutmalar iş günleri kabul edilýär we gysga wagtda jogaplanýar."
+      }
+    ]
+  },
+  "privacyPage": {
+    "title": "Gizlinlik Syýasaty",
+    "updated": "Soňky täzelenme: 2026-njy ýylyň 1-nji iýuly",
+    "intro": "Şu syýasat AýKitap platformasynyň şahsy maglumatlaryňyzy nähili ýygnaýandygyny, ulanýandygyny we goraýandygyny düşündirýär.",
+    "sections": [
+      {
+        "title": "Ýygnalýan maglumatlar",
+        "body": "Hasaba durlanda telefon belgiňizi we ulanyjy adyňyzy ýygnaýarys. Şeýle hem hyzmaty gowulandyrmak üçin okaýyş statistikasy ýaly tehniki maglumatlar toplanyp bilner."
+      },
+      {
+        "title": "Maglumatlaryň ulanylyşy",
+        "body": "Maglumatlaryňyz hasabyňyzy tassyklamak, sargytlaryňyzy ýerine ýetirmek, goldaw bermek we hyzmatyň hilini ýokarlandyrmak üçin ulanylýar. Mahabat maksatly üçünji taraplara berilmeýär."
+      },
+      {
+        "title": "Saklanyş we howpsuzlyk",
+        "body": "Maglumatlaryňyz howpsuz serwerlerde saklanýar we bikanun elýeterlilikden goramak üçin degişli tehniki çäreler görülýär."
+      },
+      {
+        "title": "Üçünji taraplar",
+        "body": "Şahsy maglumatlaryňyz satylmaýar we alyş-çalyş edilmeýär. Diňe kanunda göz öňünde tutulan halatlarda degişli edaralara berlip bilner."
+      },
+      {
+        "title": "Enjamda saklanýan maglumatlar",
+        "body": "Sebet, halanan kitaplar we dil saýlawy ýaly maglumatlar amatlylyk üçin öz enjamyňyzda (brauzeriň ýadynda) saklanýar. Olary brauzer sazlamalaryndan islendik wagt arassalap bilersiňiz."
+      },
+      {
+        "title": "Siziň hukuklaryňyz",
+        "body": "Öz maglumatlaryňyzy görmek, düzetmek ýa-da pozmagy talap etmek hukugyňyz bar. Munuň üçin goldaw hyzmatymyza ýüz tutuň."
+      },
+      {
+        "title": "Üýtgeşmeler we habarlaşmak",
+        "body": "Syýasat täzelenende bu sahypada görkeziler. Soraglaryňyz üçin goldaw hyzmatymyza ýazyp bilersiňiz."
+      }
+    ]
+  },
+  "authorsPage": {
+    "title": "Ýazarlar",
+    "subtitle": "Türkmen edebiýatynyň ussatlary bilen tanşyň — her ýazaryň eserlerini açyň",
+    "allBooks": "Eserlerini gör",
+    "searchPlaceholder": "Ýazar gözle..."
+  },
+  "account": {
+    "profile": "Profil",
+    "myBooks": "Kitaplarym",
+    "wishlist": "Halanlarym",
+    "balance": "Balans",
+    "requests": "Kitap haýyşlarym",
+    "support": "Kömek",
+    "language": "Interfeýs dili",
+    "languageDesc": "Sahypanyň dilini islän wagtyňyz üýtgedip bilersiňiz"
+  },
+  "library": {
+    "download": "Göçürip al",
+    "owned": "Bu kitap siziňki",
+    "empty": "Entek satyn alnan kitap ýok",
+    "emptyDesc": "Satyn alan kitaplaryňyz şu ýerde görüner we islän wagtyňyz göçürip alyp bilersiňiz",
+    "browse": "Kitaplara göz aýla",
+    "chooseFormat": "Formaty saýlaň",
+    "chooseFormatDesc": "Bu kitap birnäçe formatda elýeterli",
+    "noFile": "Bu kitabyň faýly entek ýüklenmedik",
+    "notOwned": "Ilki bu kitaby satyn almaly"
+  },
+  "balance": {
+    "topUp": "Balansy doldur",
+    "cardHint": "Balansdan kitap satyn alyp bilersiňiz. Bank kartasy ýa-da promokod bilen dolduryň.",
+    "promoTitle": "Promokod bilen",
+    "promoDesc": "Elinizdäki promokody giriziň — mukdar dessine balansyňyza goşular",
+    "promoPlaceholder": "Promokody giriziň",
+    "promoApply": "Ulan",
+    "promoSuccess": "Promokod ulanyldy, balansyňyz dolduryldy",
+    "promoNotFound": "Beýle promokod tapylmady",
+    "promoUsed": "Bu promokod eýýäm ulanylan",
+    "cardTitle": "Bank kartasy bilen",
+    "cardDesc": "Puluň mukdaryny ýazyp, banky saýlaň — bankyň howpsuz töleg sahypasyna geçersiňiz",
+    "soon": "Ýakynda",
+    "history": "Balans taryhy",
+    "historyEmpty": "Amal ýok",
+    "historyEmptyDesc": "Balans doldurmalaryňyz we satyn alyşlaryňyz şu ýerde görüner",
+    "events": {
+      "DEPOSIT_BY_CARD": "Bank kartasy bilen dolduryldy",
+      "DEPOSIT_BY_TMCELL": "Telefon hasaby bilen dolduryldy",
+      "DEPOSIT_BY_PROMO": "Promokod bilen dolduryldy",
+      "BUY_BOOK": "Kitap satyn alyndy",
+      "BUY_SUBSCRIPTION": "Abunalyk satyn alyndy",
+      "REWARD_BY_STREAK": "Streak sylagy"
+    },
+    "amountPlaceholder": "Mukdary (manat)",
+    "payNow": "Doldur",
+    "paymentSuccess": "Balansyňyz üstünlikli dolduryldy!",
+    "paymentFailed": "Töleg amala aşmady. Gaýtadan synanyşyň."
+  },
+  "requests": {
+    "introTitle": "Gözleýän kitabyňyz ýokmy?",
+    "introDesc": "Haýyş iberiň — kitaby programma goşmaga çalşarys",
+    "new": "Täze haýyş",
+    "newTitle": "Kitap haýyşy",
+    "newDesc": "Programmada ýok kitaby haýyş ediň",
+    "bookName": "Kitap ady",
+    "bookNamePlaceholder": "Mysal: Ýitgi we tapyş",
+    "authorName": "Ýazar ady",
+    "authorPlaceholder": "Mysal: Osman Ödäýew",
+    "description": "Beýany (hökman däl)",
+    "descriptionPlaceholder": "Kitap barada goşmaça maglumat",
+    "language": "Dili",
+    "submit": "Iber",
+    "created": "Haýyşyňyz iberildi",
+    "deleted": "Haýyş pozuldy",
+    "delete": "Poz",
+    "dailyLimit": "Bir günde iň köp 5 haýyş iberip bolýar",
+    "empty": "Entek haýyş ýok",
+    "emptyDesc": "Gözleýän kitabyňyzy haýyş ediň — sanaw şu ýerde görüner",
+    "statuses": {
+      "new": "Täze",
+      "accepted": "Kabul edildi",
+      "processing": "Işlenilýär",
+      "completed": "Taýýar",
+      "rejected": "Ret edildi"
+    },
+    "languages": {
+      "tk": "Türkmen dili",
+      "tr": "Türk dili",
+      "ru": "Rus dili",
+      "en": "Iňlis dili",
+      "other": "Beýleki"
+    }
+  },
+  "support": {
+    "title": "Kynçylyk barada habar ber",
+    "desc": "Duşan kynçylygyňyzy beýan ediň, biz derňäris",
+    "placeholder": "Näme boldy? Mümkin boldugyça jikme-jik ýazyň...",
+    "send": "Iber",
+    "sent": "Habaryňyz iberildi, sag boluň!",
+    "contactTitle": "Göni habarlaşmak",
+    "contactDesc": "Gyssagly ýagdaýda şu salgylar arkaly ýüz tutup bilersiňiz"
+  }
+}
