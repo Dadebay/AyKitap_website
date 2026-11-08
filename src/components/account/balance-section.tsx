@@ -278,8 +278,7 @@ export function BalanceSection({
     paymentHandled.current = true;
     if (payment === "success") {
       toast.success(t("balance.paymentSuccess"));
-      void refreshMe();
-      setReloadKey((k) => k + 1);
+      void refreshMe().then(() => setReloadKey((k) => k + 1));
     } else {
       toast.error(t("balance.paymentFailed"));
     }

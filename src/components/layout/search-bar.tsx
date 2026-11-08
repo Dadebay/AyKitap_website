@@ -40,13 +40,8 @@ export function SearchBar({
     const query = q.trim();
     if (query.length < MIN_QUERY) {
       seqRef.current++;
-      setResults([]);
-      setLoading(false);
-      setOpen(false);
       return;
     }
-    setOpen(true);
-    setLoading(true);
     const seq = ++seqRef.current;
     const timer = setTimeout(async () => {
       // Fail-soft: a dead network just shows the empty state.
@@ -99,7 +94,15 @@ export function SearchBar({
         aria-expanded={open}
         aria-autocomplete="list"
         value={q}
-        onChange={(e) => setQ(e.target.value)}
+        onChange={(e) => {
+          const value = e.target.value;
+          const hasQuery = value.trim().length >= MIN_QUERY;
+          seqRef.current++;
+          setQ(value);
+          setResults([]);
+          setLoading(hasQuery);
+          setOpen(hasQuery);
+        }}
         onFocus={() => {
           if (q.trim().length >= MIN_QUERY) setOpen(true);
         }}

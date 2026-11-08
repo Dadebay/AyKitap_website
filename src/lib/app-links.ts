@@ -29,5 +29,7 @@ export function openBookInApp(bookId: number): void {
     { once: true },
   );
 
+  // This is a mobile-app URL scheme, not a route handled by Next.js.
+  // eslint-disable-next-line @next/next/no-location-assign-relative-destination
   window.location.href = `${APP_SCHEME}book/${bookId}`;
 }
